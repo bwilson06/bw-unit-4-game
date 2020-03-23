@@ -15,7 +15,7 @@
     border-bottom-right-radius: 10px;
     border-width: 8px;
     border-style: solid;
-    border-color: rgb(41, 39, 39);
+    border-color: #9e9999;
 }
 
 .header{
@@ -129,6 +129,7 @@
     border-style: solid;
     border-color: #9e9999;
     margin-bottom: 10px;
+    align-items: center;
 }
 
 .score{
@@ -141,6 +142,7 @@
     text-transform: uppercase;
     color: #2d3a63;
     margin-left: 50px;
+    float: left;
 }
 
 #totalscore{
@@ -154,3 +156,4 @@
     color: #2d3a63;
     margin-left: 10px;
 }
+
